@@ -1,0 +1,32 @@
+.Deleterow{
+    display: flex;
+    justify-content: flex-end;
+}
+.icon:hover{
+    color: red;
+}
+
+.cards-container{
+    width: 95%;
+    margin: auto;
+    padding-bottom: 6rem;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 4rem;
+    flex-wrap: wrap;
+    margin-bottom: 4rem;
+    align-content: flex-start;
+}
+
+.c1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 4rem;
+    width:20rem;
+    margin-bottom: 3rem;
+    align-content: flex-start;
+}
+.MuiButton-root {
+    position: relative;
+    left: 12rem;
+}
